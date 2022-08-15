@@ -1,2 +1,2 @@
-# CSharp-BASIC
-CSharp basic exercises!
+C# BASIC
+Some exercises from basic course @ SoftUni!
